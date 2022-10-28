@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm psycho, a CS student and an aspiring software developer
+
+Experiences
+=========
+Javascript, Typescript, Python, Golang, and some C# and C++ (very little)
+
+Projects
+=========
+[Kythi](https://kythi.gg)
+
 
 <!--
 **whospsycho/whospsycho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
