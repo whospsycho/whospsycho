@@ -1,12 +1,23 @@
-### Hi there 👋, I'm psycho, a CS student and an aspiring software developer
+# Hi there 👋, I'm psycho, a fullstack developer, CS student, and an aspiring software engineer
 
-Experiences
-=========
-Javascript, Typescript, Python, Golang, and some C# and C++ (very little)
+💻 Languages I use
+---
+Javascript, Typescript, Python, Golang, and Rust
 
-Projects
+🔨 Tools/Libraries I use
+---
+React, Next.js, Sveltekit, Cloudflare, Nginx, and Docker
+
+📃 Projects
 =========
-[Kythi](https://kythi.gg)
+[Kythi](https://beta.kythi.co)\
+[Jet](https://jet.pics)
+
+💌 How to reach me:
+---
+Discord: psycho.#1689\
+Email: me@psycho.rocks
+
 
 
 <!--
