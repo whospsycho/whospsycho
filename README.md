@@ -10,8 +10,7 @@ React, Next.js, Sveltekit, Cloudflare, Nginx, and Docker
 
 📃 Projects
 =========
-[Kythi](https://beta.kythi.co)\
-[Jet](https://jet.pics)
+[Kythi](https://beta.kythi.co)
 
 💌 How to reach me:
 ---
