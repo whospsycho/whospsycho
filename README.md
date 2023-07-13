@@ -14,7 +14,7 @@ React, Next.js, Sveltekit, Cloudflare, Nginx, and Docker
 
 💌 How to reach me:
 ---
-Discord: psycho.#1689\
+Discord: psycho2good\
 Email: me@psycho.rocks
 
 
